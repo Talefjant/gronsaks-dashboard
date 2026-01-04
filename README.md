@@ -1,2 +1,2 @@
 # gronsaks-dashboard
-Den store grønsaksufordringa 2026
+Den store grønsaksutfordringa 2026
