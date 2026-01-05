@@ -1,4 +1,4 @@
-.name: Render Quarto dashboard
+name: Render Quarto dashboard
 
 on:
   schedule:
