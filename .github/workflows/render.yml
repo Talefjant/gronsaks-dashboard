@@ -1,4 +1,4 @@
-name: Render Quarto dashboard
+.name: Render Quarto dashboard
 
 on:
   schedule:
@@ -48,7 +48,7 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render site
-        run: quarto render
+        run: quarto render index.qmd
 
       - name: Commit rendered files
         run: |
