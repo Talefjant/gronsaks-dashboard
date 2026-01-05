@@ -2,8 +2,8 @@ name: Render Quarto dashboard
 
 on:
   schedule:
-    - cron: "0 * * * *"   # kvar time
-  workflow_dispatch:       # gjer at du kan trykke "Run workflow"
+    - cron: "0 * * * *"  # kvar time (UTC)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -24,11 +24,10 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc
 
-     - name: Install R packages
+      - name: Install R packages
         run: |
-    Rscript -e 'install.packages("tidyverse", repos = "https://cloud.r-project.org")'
-    Rscript -e 'install.packages(c("lubridate","DT","googlesheets4","scales"), repos = "https://cloud.r-project.org")'
-
+          Rscript -e 'install.packages("tidyverse", repos="https://cloud.r-project.org")'
+          Rscript -e 'install.packages(c("lubridate","DT","googlesheets4","scales"), repos="https://cloud.r-project.org")'
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
