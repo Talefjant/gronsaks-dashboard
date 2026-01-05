@@ -10,6 +10,9 @@ permissions:
 
 jobs:
   render:
+    env:
+      RENV_CONFIG_AUTOLOADER_ENABLED: "FALSE"
+      
     runs-on: ubuntu-latest
 
     steps:
@@ -24,10 +27,22 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc
 
-      - name: Install R packages
+      - name: Install system dependencies
         run: |
-          Rscript -e 'install.packages("tidyverse", repos="https://cloud.r-project.org")'
-          Rscript -e 'install.packages(c("lubridate","DT","googlesheets4","scales"), repos="https://cloud.r-project.org")'
+          sudo apt-get update
+          sudo apt-get install -y pandoc libcurl4-openssl-dev libssl-dev libxml2-dev
+
+      - name: Install R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            tidyverse
+            lubridate
+            DT
+            googlesheets4
+            scales
+          needs: |
+            cran
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
