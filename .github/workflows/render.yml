@@ -24,9 +24,11 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc
 
-      - name: Install R packages
+     - name: Install R packages
         run: |
-          Rscript -e 'install.packages(c("tidyverse","lubridate","DT","googlesheets4","scales"))'
+    Rscript -e 'install.packages("tidyverse", repos = "https://cloud.r-project.org")'
+    Rscript -e 'install.packages(c("lubridate","DT","googlesheets4","scales"), repos = "https://cloud.r-project.org")'
+
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
