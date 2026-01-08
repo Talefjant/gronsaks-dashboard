@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Den store grønsaksutfordringa 2026",
     "section": "",
-    "text": "110\n\n\n\n\n6.11\n\n\n\n\n8\n\n\n\n\n18\n\n\n\n\n\n\n\nHeatmap\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt alle)\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)"
+    "text": "118\n\n\n\n\n6.21\n\n\n\n\n8\n\n\n\n\n19\n\n\n\n\n\n\n\nHeatmap\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt alle)\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)"
   },
   {
     "objectID": "index.html#nøkkeltal",
     "href": "index.html#nøkkeltal",
     "title": "Den store grønsaksutfordringa 2026",
     "section": "",
-    "text": "110\n\n\n\n\n6.11\n\n\n\n\n8\n\n\n\n\n18\n\n\n\n\n\n\n\nHeatmap\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt alle)\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)"
+    "text": "118\n\n\n\n\n6.21\n\n\n\n\n8\n\n\n\n\n19\n\n\n\n\n\n\n\nHeatmap\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt alle)\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)"
   },
   {
     "objectID": "index.html#fordelt-på-person",
@@ -53,6 +53,6 @@
     "href": "Grønnsaksutfordringa 2026/dashboard2.html#oversikt-alle",
     "title": "Den store grønsaksutfordringa 2026",
     "section": "Oversikt (alle)",
-    "text": "Oversikt (alle)\n\nForside\n\n\n\n\nTotal\n110\n\n\n\nSnitt\n6.11\n\n\n\nMaks\n8\n\n\n\nRegistrerte datapunkt\n18\n\n\n\n\n\nHeatmap (alle deltakarar)\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt)\n\n\n\n\n\n\n\n\n\n\n\n\nTrend per veke (sum)\n\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)\n\n\n\n\n\n\n\n\n\n\nRådata ::: {.card}\nInteraktiv tabell (wide)\n\n\n\n\n\n\n::: ## Per person {.tabset .tabset-pills}\n\nTale\n\nKumulativ score\n\n\n\n\n\n\n\n\n\n\n\n\n\nBoxplot\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarleny\n\nKumulativ score – r valgt_person\n\n\n\n\n\n\n\n\n\n\n\n\n# A tibble: 6 × 9\n   Veke Dato       Dag     Sigrun Knut_Olav Tale  Marleny Marianne Eline\n  &lt;int&gt; &lt;date&gt;     &lt;chr&gt;   &lt;chr&gt;  &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;    &lt;chr&gt;\n1     2 2026-01-05 Mandag  6      6         5     8       5        5    \n2     2 2026-01-06 Tirsdag 7      7         8     7       6        5    \n3     2 2026-01-07 Onsdag  5,5    6         7     8       8        4    \n4     2 2026-01-08 Torsdag &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;     2    \n5     2 2026-01-09 Fredag  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;     &lt;NA&gt; \n6     2 2026-01-10 Lørdag  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;     &lt;NA&gt; \n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's \n  2.000   5.000   6.000   6.111   7.000   8.000     222"
+    "text": "Oversikt (alle)\n\nForside\n\n\n\n\nTotal\n118\n\n\n\nSnitt\n6.21\n\n\n\nMaks\n8\n\n\n\nRegistrerte datapunkt\n19\n\n\n\n\n\nHeatmap (alle deltakarar)\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt)\n\n\n\n\n\n\n\n\n\n\n\n\nTrend per veke (sum)\n\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)\n\n\n\n\n\n\n\n\n\n\nRådata ::: {.card}\nInteraktiv tabell (wide)\n\n\n\n\n\n\n::: ## Per person {.tabset .tabset-pills}\n\nTale\n\nKumulativ score\n\n\n\n\n\n\n\n\n\n\n\n\n\nBoxplot\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarleny\n\nKumulativ score – r valgt_person\n\n\n\n\n\n\n\n\n\n\n\n\n# A tibble: 6 × 9\n   Veke Dato       Dag     Sigrun Knut_Olav Tale  Marleny Marianne Eline\n  &lt;int&gt; &lt;date&gt;     &lt;chr&gt;   &lt;chr&gt;  &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;    &lt;chr&gt;\n1     2 2026-01-05 Mandag  6      6         5     8       5        5    \n2     2 2026-01-06 Tirsdag 7      7         8     7       6        5    \n3     2 2026-01-07 Onsdag  5,5    6         7     8       8        4    \n4     2 2026-01-08 Torsdag &lt;NA&gt;   &lt;NA&gt;      8     &lt;NA&gt;    &lt;NA&gt;     2    \n5     2 2026-01-09 Fredag  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;     &lt;NA&gt; \n6     2 2026-01-10 Lørdag  &lt;NA&gt;   &lt;NA&gt;      &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;     &lt;NA&gt; \n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's \n  2.000   5.000   6.000   6.211   7.500   8.000     221"
   }
 ]
