@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Den store grønsaksutfordringa 2026",
     "section": "",
-    "text": "1,088\n\n\n\n\n6.89\n\n\n\n\n10\n\n\n\n\n158\n\n\n\n\n\n\n\nHeatmap\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt alle)\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)"
+    "text": "1,118\n\n\n\n\n6.9\n\n\n\n\n10\n\n\n\n\n162\n\n\n\n\n\n\n\nHeatmap\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt alle)\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)"
   },
   {
     "objectID": "index.html#nøkkeltal",
     "href": "index.html#nøkkeltal",
     "title": "Den store grønsaksutfordringa 2026",
     "section": "",
-    "text": "1,088\n\n\n\n\n6.89\n\n\n\n\n10\n\n\n\n\n158\n\n\n\n\n\n\n\nHeatmap\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt alle)\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)"
+    "text": "1,118\n\n\n\n\n6.9\n\n\n\n\n10\n\n\n\n\n162\n\n\n\n\n\n\n\nHeatmap\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt alle)\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)"
   },
   {
     "objectID": "index.html#fordelt-på-person",
@@ -53,6 +53,6 @@
     "href": "Grønnsaksutfordringa 2026/dashboard2.html#oversikt-alle",
     "title": "Den store grønsaksutfordringa 2026",
     "section": "Oversikt (alle)",
-    "text": "Oversikt (alle)\n\nForside\n\n\n\n\nTotal\n1,088\n\n\n\nSnitt\n6.89\n\n\n\nMaks\n10\n\n\n\nRegistrerte datapunkt\n158\n\n\n\n\n\nHeatmap (alle deltakarar)\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt)\n\n\n\n\n\n\n\n\n\n\n\n\nTrend per veke (sum)\n\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)\n\n\n\n\n\n\n\n\n\n\nRådata ::: {.card}\nInteraktiv tabell (wide)\n\n\n\n\n\n\n::: ## Per person {.tabset .tabset-pills}\n\nTale\n\nKumulativ score\n\n\n\n\n\n\n\n\n\n\n\n\n\nBoxplot\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarleny\n\nKumulativ score – r valgt_person\n\n\n\n\n\n\n\n\n\n\n\n\n# A tibble: 6 × 9\n   Veke Dato       Dag     Sigrun Knut_Olav Tale  Marleny Marianne Eline\n  &lt;int&gt; &lt;date&gt;     &lt;chr&gt;   &lt;chr&gt;  &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;    &lt;chr&gt;\n1     2 2026-01-05 Mandag  6      6         5     8       5        5    \n2     2 2026-01-06 Tirsdag 7      7         8     7       6        5    \n3     2 2026-01-07 Onsdag  5.5    6         7     8       8        4    \n4     2 2026-01-08 Torsdag 4      4         8     8       8        2    \n5     2 2026-01-09 Fredag  5.5    5.5       7     8       8        3    \n6     2 2026-01-10 Lørdag  7.5    7         8     8       5        3    \n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's \n  2.000   6.000   7.000   6.886   8.000  10.000      82"
+    "text": "Oversikt (alle)\n\nForside\n\n\n\n\nTotal\n1,118\n\n\n\nSnitt\n6.9\n\n\n\nMaks\n10\n\n\n\nRegistrerte datapunkt\n162\n\n\n\n\n\nHeatmap (alle deltakarar)\n\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster (snitt)\n\n\n\n\n\n\n\n\n\n\n\n\nTrend per veke (sum)\n\n\n\n\n\n\n\n\n\n\n\n\n\nKumulativ score (totalt)\n\n\n\n\n\n\n\n\n\n\nRådata ::: {.card}\nInteraktiv tabell (wide)\n\n\n\n\n\n\n::: ## Per person {.tabset .tabset-pills}\n\nTale\n\nKumulativ score\n\n\n\n\n\n\n\n\n\n\n\n\n\nBoxplot\n\n\n\n\n\n\n\n\n\n\n\n\nUkedagsmønster\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarleny\n\nKumulativ score – r valgt_person\n\n\n\n\n\n\n\n\n\n\n\n\n# A tibble: 6 × 9\n   Veke Dato       Dag     Sigrun Knut_Olav Tale  Marleny Marianne Eline\n  &lt;int&gt; &lt;date&gt;     &lt;chr&gt;   &lt;chr&gt;  &lt;chr&gt;     &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;    &lt;chr&gt;\n1     2 2026-01-05 Mandag  6      6         5     8       5        5    \n2     2 2026-01-06 Tirsdag 7      7         8     7       6        5    \n3     2 2026-01-07 Onsdag  5.5    6         7     8       8        4    \n4     2 2026-01-08 Torsdag 4      4         8     8       8        2    \n5     2 2026-01-09 Fredag  5.5    5.5       7     8       8        3    \n6     2 2026-01-10 Lørdag  7.5    7         8     8       5        3    \n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's \n  2.000   6.000   7.000   6.901   8.000  10.000      78"
   }
 ]
